@@ -419,6 +419,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/head/hd.js",
+			"settings":
+			{
+				"buffer_size": 317,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -516,6 +524,8 @@
 	},
 	"file_history":
 	[
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/ds/main.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/nodeJs初學_檔案上傳/server.js",
 		"/C/Users/Cain/Documents/GitHub/Cain_Javascript_Composition/html5/index.html",
 		"/E/cain_tmp/Dropbox/Dropbox/work/skybox/index.html",
 		"/C/Users/Cain/Documents/GitHub/Cain_Javascript_Composition/physijs/js/main.js",
@@ -595,7 +605,6 @@
 		"/C/Users/Cain/Desktop/nodeWebkit/ds/main2.html",
 		"/C/Users/Cain/Desktop/nodeWebkit/ds/package.json",
 		"/C/Users/Cain/Desktop/IcoMoon--limited--master/Icons/SVG/aid.svg",
-		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/ds/main.html",
 		"/E/cain_tmp/Dropbox/Dropbox/work/jsDemo/index.html",
 		"/C/Users/Cain/Desktop/box2d-js_0.1.0/demos/demo_base.js",
 		"/C/Users/Cain/Desktop/box2d-js_0.1.0/demos/draw_world.js",
@@ -642,8 +651,7 @@
 		"/D/cain/xampp/htdocs/imageData/imgView.html",
 		"/D/cain/xampp/htdocs/imageData/img.html",
 		"/C/Users/Cain/Desktop/dsCom.html",
-		"/C/Users/Cain/Desktop/node-webkit-v0.10.1-win-ia32/example1.html",
-		"/E/cain_tmp/Dropbox/Dropbox/Public/ds/dsCom.html"
+		"/C/Users/Cain/Desktop/node-webkit-v0.10.1-win-ia32/example1.html"
 	],
 	"find":
 	{
@@ -752,8 +760,35 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/head/hd.js",
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
